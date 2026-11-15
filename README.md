@@ -13,7 +13,7 @@
 ├── config/
 │   └── crontab-example           # Example crontab configuration for automation
 └── docs/
-    └── 36- Project-1-Automated Backup System.yaml  # Detailed implementation documentation
+    └── Project-1-Automated Backup System.yaml  # Detailed implementation documentation
 ```
 
 # Automated Backup System with AWS S3 Integration 
